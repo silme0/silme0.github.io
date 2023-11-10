@@ -15,10 +15,10 @@
 minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "kor-Korea"
+locale                   : ""
 title                    : "Silme"
 title_separator          : "-"
-subtitle                 : programming and science# site tagline that appears below site title in masthead
+subtitle                 : programming and science
 name                     : "Silme"
 description              : "An amazing website."
 url                      : "https://silme0.github.io"
