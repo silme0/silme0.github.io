@@ -15,19 +15,19 @@
 minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : ""
+locale                   : "ko-KR"
 title                    : "Silme"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : programming and science
 name                     : "Silme"
-description              : "An amazing website."
+description              : "프로그래밍과 과학, 언어 등을 다룹니다."
 url                      : "https://silme0.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/profile.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Silme"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "프로그래밍과 과학, 수학, 언어 등을 다룹니다."
+  location         : "South Korea"
   email            :
   links:
     - label: "Email"
@@ -290,3 +290,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_data: true
+date_format: "%Y-%m-%d"
