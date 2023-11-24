@@ -1,7 +1,8 @@
 ---
 layout: single
 title:  "[책 리뷰]<이성원 강사의 3분 엑셀>(한빛미디어)"
-categories: Book
+categories: 
+  - Book
 tags: [책, 리뷰, 엑셀, OA]
 toc: true
 ---

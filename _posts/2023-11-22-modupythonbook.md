@@ -1,7 +1,8 @@
 ---
 layout: single
 title:  "[책리뷰]파이썬: <모두의 파이썬(길벗)> 파이썬 입문자 책 추천"
-categories: Book
+categories: 
+  - Book
 tags: [리뷰, python, 독학, 입문]
 toc: true
 ---
