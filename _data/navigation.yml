@@ -19,9 +19,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-
-  counts:
-    - title: "프로그래밍"
-      use: true
-    - title: "태그"
-      use: true

@@ -307,5 +307,3 @@ defaults:
       layout: single
       author_profile: false
       share: true
-
-#category_list: [ nodejs, javascript, tip, diary, linux, chatbot, php ,publishing, jekyll, sql, error ]
