@@ -4,8 +4,11 @@ main:
     url: /categories/
   - title: "Tag"
     url: /tags/
+  - title: "Year"
+    url: /year-archive/
   - title: "Search"
     url: /search/
+
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
@@ -16,3 +19,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+  counts:
+    - title: "프로그래밍"
+      use: true
+    - title: "태그"
+      use: true
